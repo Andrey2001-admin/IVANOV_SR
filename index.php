@@ -1,5 +1,5 @@
 <?php
-	require_once "include/session.php"; // на каждой странице
+	require_once "include/session.php"; 
 ?>
 <!DOCTYPE html>
 <html>
